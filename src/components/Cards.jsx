@@ -20,8 +20,8 @@ function Cards() {
             Start Trial
           </button>
         </div>
-        <div className="w-full shadow-xl bg-gray-100 flex justify-center items-center flex-col p-4 md:my-0 my-8 roudend-lg hover:scale-105 duration-300">
-          <img src={Double} className=" w-20 mx-auto mt-[-3rem] bg-white bg-transparent"></img>
+        <div className="w-full shadow-xl flex justify-center items-center flex-col p-4 md:my-0 my-8 roudend-lg hover:scale-105 duration-300">
+          <img src={Double} className=" w-20 mx-auto mt-[-3rem] bg-white"></img>
           <h2 className="text-2xl font-bold text-center py-8">Double User</h2>
           <p className="text-center text-4xl font-bold">$149</p>
           <div className="text-center font-medium">
